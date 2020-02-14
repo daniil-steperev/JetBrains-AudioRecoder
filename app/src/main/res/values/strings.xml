@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AudioRecoder</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+    <string name="sound_recorder">Sound Recorder</string>
+    <string name="upload_voice_file">Upload voice file</string>
+</resources>
